@@ -1,0 +1,40 @@
+{
+  "pages": [
+    
+    "pages/dikong/main_page/main_page",
+    "pages/dikong/chart/chart",
+    "pages/dikong/video/video"
+    
+    
+  ],
+  "tabBar": { 
+    "color": "#666",
+    "selectedColor": "#268dcd",
+    "borderStyle": "white",
+    "backgroundColor": "#fafafa",
+    "list": [
+      
+      { 
+        "pagePath": "pages/dikong/main_page/main_page",
+        "iconPath": "image/cloudy.jpg", 
+        "selectedIconPath": "image/cloudy.jpg", 
+        "text": "cloudy"
+      },
+    
+      {
+        "pagePath": "pages/dikong/video/video",
+        "iconPath": "image/sunny.jpg",
+        "selectedIconPath": "image/sunny.jpg",
+        "text": "sunny"
+      }
+    ]
+  },
+  "window": { 
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#268dcd",
+    "navigationBarTitleText": "平流层卫星系统",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}

@@ -1,0 +1,12 @@
+/* pages/douban/in_theathers/in_theathers.wxss */
+.images{
+  height: 600rpx;
+  opacity: 1;
+}
+.hiddenimages{
+  height: 600rpx;
+  opacity: 0;
+}
+.tiny{
+  font-size:18rpx;
+}

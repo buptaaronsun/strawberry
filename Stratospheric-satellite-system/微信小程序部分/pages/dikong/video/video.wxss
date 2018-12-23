@@ -1,0 +1,13 @@
+.live{
+ width: 100%;
+}
+.pic{
+  width:100%;
+}
+.huaji{
+  width: 70rpx;
+  height:70rpx;
+}
+.word{
+  text-align: center;
+}

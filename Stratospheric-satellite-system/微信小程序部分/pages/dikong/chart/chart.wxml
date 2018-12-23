@@ -1,0 +1,14 @@
+<!--pages/douban/detail/detail.wxml-->
+
+<canvas style="width: 400px; height: 200px;" canvas-id="Tempc" bindtouchstart="TempTouchHandler"></canvas>
+
+<canvas style="width: 400px; height: 200px;" canvas-id="Humidityc" bindtouchstart="HumidityTouchHandler"></canvas>
+<canvas style="width: 400px; height: 200px;" canvas-id="Pressc" bindtouchstart="PressTouchHandler"></canvas>
+
+<canvas style="width: 400px; height: 200px;" canvas-id="Heightc" bindtouchstart="HeightTouchHandler"></canvas>
+
+
+<image src="../../../image/刷新.jpg" class="iicon"></image>
+<button bindtap="getMothElectro" class="refresh">
+
+</button>

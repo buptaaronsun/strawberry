@@ -1,0 +1,5 @@
+<!--pages/douban/in_theathers/in_theathers.wxml-->
+<image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543603638161&di=011a6aff4973e1062c304bf9dfbdd585&imgtype=0&src=http%3A%2F%2Fsnht.cpweb.gov.cn%2Fuploadfile%2F201310%2F18%2F1514122381.png" class="BackGroundPic"></image>
+<button bindtap='Switchpage' class="Button">云雨量</button>
+<button bindtap='Switchpage2' class="Button2">温度图表</button>
+

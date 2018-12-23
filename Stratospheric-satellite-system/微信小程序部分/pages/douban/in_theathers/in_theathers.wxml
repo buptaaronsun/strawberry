@@ -1,0 +1,7 @@
+<!--pages/douban/in_theathers/in_theathers.wxml-->
+
+<image src="../../../image/ing-active.png"></image>
+
+
+<button bindtap='Switchpage'>云雨量</button>
+<button bindtap='Switchpage2'>图表样例</button>
